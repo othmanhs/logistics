@@ -277,6 +277,8 @@ header nav ul {
   }
   .about img {
     margin: auto;
+    height: 385px;
+    width: 360px;
   }
 }
 .about .flexitem {
